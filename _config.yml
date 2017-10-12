@@ -1,6 +1,6 @@
 # Site settings
-title: qigeplus Blog
-SEOTitle: 七哥的博客 | 七哥的Blog
+title: qige Blog
+SEOTitle: 七哥的博客 | qige Blog
 header-img: img/post-bg-desk.jpg
 email: qigeplus@gmail.com
 description: "Every failure is leading towards success."
@@ -80,8 +80,8 @@ ga_domain: auto
 
 
 # Featured Tags
-featured-tags: false                     # 是否使用首页标签
-featured-condition-size: 5              # 相同标签数量大于这个数，才会出现在首页
+#featured-tags: false                     # 是否使用首页标签
+#featured-condition-size:              # 相同标签数量大于这个数，才会出现在首页
 
 
 
